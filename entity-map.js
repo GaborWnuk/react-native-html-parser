@@ -155,7 +155,9 @@ var EntityMap = {
 	'hearts': '\u2665', // heart
 	'diams': '\u2666', // diamond
         'laquo':'\u00AB', // double left angle
-        'raquo':'\u00BB' // double right angle
+        'raquo':'\u00BB', // double right angle
+	'Oacute':'\u00D3', // Ó
+	'oacute':'\u00F3' // o
 }
 
 if(typeof require == 'function'){
