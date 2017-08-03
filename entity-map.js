@@ -157,7 +157,8 @@ var EntityMap = {
         'laquo':'\u00AB', // double left angle
         'raquo':'\u00BB', // double right angle
 	'Oacute':'\u00D3', // Ó
-	'oacute':'\u00F3' // o
+	'oacute':'\u00F3', // o
+	'nbsp':'\u0020' // space
 }
 
 if(typeof require == 'function'){
